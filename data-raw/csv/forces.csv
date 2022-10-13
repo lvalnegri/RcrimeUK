@@ -1,0 +1,46 @@
+force_id,name,long_name,file_name,CTRY
+1,Avon and Somerset,Avon and Somerset Constabulary,avon-and-somerset,E
+2,Bedfordshire,Bedfordshire Police,bedfordshire,E
+3,British Transport,British Transport Police,btp,K
+4,Cambridgeshire,Cambridgeshire Constabulary,cambridgeshire,E
+5,Cheshire,Cheshire Constabulary,cheshire,E
+6,City of London,City of London Police,city-of-london,E
+7,Cleveland,Cleveland Police,cleveland,E
+8,Cumbria,Cumbria Constabulary,cumbria,E
+9,Derbyshire,Derbyshire Constabulary,derbyshire,E
+10,Devon and Cornwall,Devon & Cornwall Police,devon-and-cornwall,E
+11,Dorset,Dorset Police,dorset,E
+12,Durham,Durham Constabulary,durham,E
+13,Dyfed-Powys,Dyfed-Powys Police,dyfed-powys,E
+14,Essex,Essex Police,essex,E
+15,Gloucestershire,Gloucestershire Constabulary,gloucestershire,E
+16,Greater Manchester,Greater Manchester Police,greater-manchester,E
+17,Gwent,Gwent Police,gwent,E
+18,Hampshire,Hampshire Constabulary,hampshire,E
+19,Hertfordshire,Hertfordshire Constabulary,hertfordshire,E
+20,Humberside,Humberside Police,humberside,E
+21,Kent,Kent Police,kent,E
+22,Lancashire,Lancashire Constabulary,lancashire,E
+23,Leicestershire,Leicestershire Police,leicestershire,E
+24,Lincolnshire,Lincolnshire Police,lincolnshire,E
+25,Merseyside,Merseyside Police,merseyside,E
+26,Metropolitan,Metropolitan Police,metropolitan,E
+27,Norfolk,Norfolk Constabulary,norfolk,E
+28,North Wales,North Wales Police,north-wales,W
+29,North Yorkshire,North Yorkshire Police,north-yorkshire,E
+30,Northamptonshire,Northamptonshire Police,northamptonshire,E
+31,Northumbria,Northumbria Police,northumbria,E
+32,Nottinghamshire,Nottinghamshire Police,nottinghamshire,E
+33,South Wales,South Wales Police,south-wales,W
+34,South Yorkshire,South Yorkshire Police,south-yorkshire,E
+35,Staffordshire,Staffordshire Police,staffordshire,E
+36,Suffolk,Suffolk Constabulary,suffolk,E
+37,Surrey,Surrey Police,surrey,E
+38,Sussex,Sussex Police,sussex,E
+39,Thames Valley,Thames Valley Police,thames-valley,E
+40,Warwickshire,Warwickshire Police,warwickshire,E
+41,West Mercia,West Mercia Police,west-mercia,E
+42,West Midlands,West Midlands Police,west-midlands,E
+43,West Yorkshire,West Yorkshire Police,west-yorkshire,E
+44,Wiltshire,Wiltshire Police,wiltshire,E
+45,Northern Ireland,Police of Northern Ireland,northern-ireland,N

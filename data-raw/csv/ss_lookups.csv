@@ -1,0 +1,59 @@
+domain_id,lookup_id,label
+0,1,Type
+0,2,Gender
+0,3,Age range
+0,4,Self-defined ethnicity
+0,5,Officer-defined ethnicity
+0,6,Legislation
+0,7,Object of search
+0,8,Outcome
+0,11,Outcome linked to object of search
+0,12,Removal of more than just outer clothing
+0,13,Part of a policing operation
+1,1,Person search
+1,2,Vehicle search
+1,3,Person and Vehicle search
+2,1,Female
+2,2,Male
+2,9,Other
+3,1,under 10
+3,2,10-17
+3,3,18-24
+3,4,25-34
+3,5,over 34
+4,11,White - English/Welsh/Scottish/Northern Irish/British
+4,12,White - Irish
+4,13,White - Any other White background
+4,21,Asian/Asian British - Bangladeshi
+4,22,Asian/Asian British - Chinese
+4,23,Asian/Asian British - Indian
+4,24,Asian/Asian British - Pakistani
+4,25,Asian/Asian British - Any other Asian background
+4,31,Black/African/Caribbean/Black British - African
+4,32,Black/African/Caribbean/Black British - Caribbean
+4,33,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background
+4,41,Mixed/Multiple ethnic groups - White and Asian
+4,42,Mixed/Multiple ethnic groups - White and Black African
+4,43,Mixed/Multiple ethnic groups - White and Black Caribbean
+4,44,Mixed/Multiple ethnic groups - Any other Mixed/Multiple ethnic background
+4,91,Other ethnic group - Any other ethnic group
+4,99,Other ethnic group - Not stated
+5,1,White
+5,2,Asian
+5,3,Black
+5,9,Other
+6,1,Firearms Act 1968 (section 47)
+6,2,Misuse of Drugs Act 1971 (section 23)
+6,3,Police and Criminal Evidence Act 1984 (section 1)
+6,4,Criminal Justice and Public Order Act 1994 (section 60)
+7,1,Controlled drugs
+7,2,Firearms
+7,3,Articles for use in criminal damage
+7,4,Anything to threaten or harm anyone
+8,1,Suspect arrested
+8,2,Suspect summonsed to court
+8,3,Offender given drugs possession warning
+8,4,Offender given penalty notice
+8,5,Offender cautioned
+8,6,Local resolution
+8,9,Nothing found - no further action

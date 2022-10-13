@@ -1,0 +1,144 @@
+var,levels
+force,Avon And Somerset
+force,Bedfordshire
+force,Btp
+force,Cambridgeshire
+force,Cheshire
+force,City Of London
+force,Cleveland
+force,Cumbria
+force,Derbyshire
+force,Devon And Cornwall
+force,Dorset
+force,Durham
+force,Dyfed Powys
+force,Essex
+force,Gloucestershire
+force,Greater Manchester
+force,Gwent
+force,Hampshire
+force,Hertfordshire
+force,Humberside
+force,Kent
+force,Lancashire
+force,Leicestershire
+force,Lincolnshire
+force,Merseyside
+force,Metropolitan
+force,Norfolk
+force,North Wales
+force,North Yorkshire
+force,Northamptonshire
+force,Northumbria
+force,Nottinghamshire
+force,South Wales
+force,South Yorkshire
+force,Staffordshire
+force,Suffolk
+force,Surrey
+force,Sussex
+force,Thames Valley
+force,Warwickshire
+force,West Mercia
+force,West Midlands
+force,West Yorkshire
+force,Wiltshire
+type,Person And Vehicle Search
+type,Person Search
+type,Vehicle Search
+gender,Female
+gender,Male
+gender,Other
+age,10-17
+age,18-24
+age,25-34
+age,Over 34
+age,Under 10
+self_ethnicity,Asian Or Asian British - Any Other Asian Background
+self_ethnicity,Asian Or Asian British - Bangladeshi
+self_ethnicity,Asian Or Asian British - Chinese
+self_ethnicity,Asian Or Asian British - Indian
+self_ethnicity,Asian Or Asian British - Pakistani
+self_ethnicity,Black Or African Or Caribbean Or Black British - African
+self_ethnicity,Black Or African Or Caribbean Or Black British - Any Other Black Or African Or Caribbean Background
+self_ethnicity,Black Or African Or Caribbean Or Black British - Caribbean
+self_ethnicity,Black Or Black British - African
+self_ethnicity,Black Or Black British - Any Other Black Background
+self_ethnicity,Black Or Black British - Caribbean
+self_ethnicity,Chinese Or Other Group - Any Other Group
+self_ethnicity,Chinese Or Other Group - Chinese
+self_ethnicity,Mixed - Any Other Mixed Background
+self_ethnicity,Mixed - White And Asian
+self_ethnicity,Mixed - White And Black African
+self_ethnicity,Mixed - White And Black Caribbean
+self_ethnicity,Mixed Or Multiple Groups - Any Other Mixed Or Multiple Background
+self_ethnicity,Mixed Or Multiple Groups - White And Asian
+self_ethnicity,Mixed Or Multiple Groups - White And Black African
+self_ethnicity,Mixed Or Multiple Groups - White And Black Caribbean
+self_ethnicity,Not Stated
+self_ethnicity,Other Group - Any Other Group
+self_ethnicity,Other Group - Arab
+self_ethnicity,Other Group - Not Stated
+self_ethnicity,White - Any Other White Background
+self_ethnicity,White - English Or Welsh Or Scottish Or Northern Irish Or British
+self_ethnicity,White - Gypsy Or Irish Traveller
+self_ethnicity,White - Irish
+self_ethnicity,White - White British
+self_ethnicity,White - White Irish
+ethnicity,Asian
+ethnicity,Black
+ethnicity,Mixed
+ethnicity,Other
+ethnicity,White
+legislation,Aviation Security Act 1982 (section 27(1))
+legislation,Conservation Of Seals Act 1970 (section 4)
+legislation,Criminal Justice Act 1988 (section 139b)
+legislation,Criminal Justice And Public Order Act 1994 (section 60)
+legislation,Crossbows Act 1987 (section 4)
+legislation,Customs And Excise Management Act 1979 (section 163)
+legislation,Deer Act 1991 (section 12)
+legislation,Environmental Protection Act 1990 (section 34b )
+legislation,Firearms Act 1968 (section 47)
+legislation,Misuse Of Drugs Act 1971 (section 23)
+legislation,Poaching Prevention Act 1862 (section 2)
+legislation,Police And Criminal Evidence Act 1984 (section 1)
+legislation,Police And Criminal Evidence Act 1984 (section 6)
+legislation,Protection Of Badgers Act 1992 (section 11)
+legislation,Psychoactive Substances Act 2016 (s36(2))
+legislation,Psychoactive Substances Act 2016 (s37(2))
+legislation,Psychoactive Substances Act 2016 (s38(2))
+legislation,Public Stores Act 1875 (section 6)
+legislation,Sporting Events Act 1985 (section 7)
+legislation,Wildlife And Countryside Act 1981 (section 19)
+object,Anything To Threaten Or Harm Anyone
+object,Article For Use In Theft
+object,Articles For Use In Criminal Damage
+object,Controlled Drugs
+object,Crossbows
+object,Detailed Object Of Search Unavailable
+object,Evidence Of Offences Under The Act
+object,Evidence Of Wildlife Offences
+object,Firearms
+object,Fireworks
+object,Game Or Poaching Equipment
+object,Goods On Which Duty Has Not Been Paid Etc.
+object,Offensive Weapons
+object,Psychoactive Substances
+object,Seals Or Hunting Equipment
+object,Stolen Goods
+outcome,A No Further Action Disposal
+outcome,Arrest
+outcome,Article Found - Detailed Outcome Unavailable
+outcome,Caution (simple Or Conditional)
+outcome,Community Resolution
+outcome,Khat Or Cannabis Warning
+outcome,Local Resolution
+outcome,Nothing Found - No Further Action
+outcome,Offender Cautioned
+outcome,Offender Given Drugs Possession Warning
+outcome,Offender Given Penalty Notice
+outcome,Penalty Notice For Disorder
+outcome,Summons / Charged By Post
+outcome,Suspect Arrested
+outcome,Suspect Summonsed To Court
+outcome,Suspected Psychoactive Substances Seized - No Further Action

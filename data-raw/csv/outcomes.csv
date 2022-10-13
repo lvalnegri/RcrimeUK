@@ -1,0 +1,26 @@
+outcome_id,description,category,ordering
+1,Action to be taken by another organisation,\N,\N
+2,Awaiting court outcome,\N,\N
+3,Court case unable to proceed,\N,\N
+4,Court result unavailable,\N,\N
+5,Defendant found not guilty,\N,\N
+6,Defendant sent to Crown Court,\N,\N
+7,Formal action is not in the public interest,\N,\N
+8,Further investigation is not in the public interest,\N,\N
+9,Investigation complete; no suspect identified,\N,\N
+10,Local resolution,\N,\N
+11,Offender deprived of property,\N,\N
+12,Offender fined,\N,\N
+13,Offender given a caution,\N,\N
+14,Offender given a drugs possession warning,\N,\N
+15,Offender given absolute discharge,\N,\N
+16,Offender given community sentence,\N,\N
+17,Offender given conditional discharge,\N,\N
+18,Offender given penalty notice,\N,\N
+19,Offender given suspended prison sentence,\N,\N
+20,Offender ordered to pay compensation,\N,\N
+21,Offender otherwise dealt with,\N,\N
+22,Offender sent to prison,\N,\N
+23,Suspect charged as part of another case,\N,\N
+24,Unable to prosecute suspect,\N,\N
+25,Under investigation,\N,\N

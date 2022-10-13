@@ -1,0 +1,27 @@
+type_id,description,category,ordering
+1,Anti-social behaviour,Public order offences,16
+2,Burglary,Burglary,4
+3,Other crime,Other Notifiable Offences,14
+4,Robbery,"Robbery
+",3
+5,Vehicle crime,"Theft and Handling
+",6
+6,Violent crime,"Violence Against the Person
+",1
+7,Other theft,"Theft and Handling
+",9
+8,Criminal damage and arson,Criminal Damage,10
+9,Drugs,Drugs,11
+10,Public disorder and weapons,"Possession of weapons offences
+",13
+11,Shoplifting,"Theft and Handling
+",7
+12,Possession of weapons,"Possession of weapons offences
+",12
+13,Bicycle theft,Theft and Handling,8
+14,Public order,"Public order offences
+",15
+15,Theft from the person,"Theft and Handling
+",5
+16,Violence and sexual offences,"Violence Against the Person
+",2
